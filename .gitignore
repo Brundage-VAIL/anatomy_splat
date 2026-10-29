@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# training data and results should live in Google Drive, not git
+work/
+results*/
+*.ply
+*.pt
+*.mp4
+*.mov
+*.MOV
+*.zip
